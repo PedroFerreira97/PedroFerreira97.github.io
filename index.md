@@ -30,8 +30,7 @@ Syntax highlighted code block
 
 ### Contact
 
-[repository settings](https://github.com/PedroFerreira97/PedroFerreira97.github.io/settings/pages)
-[repository settings](https://github.com/PedroFerreira97/PedroFerreira97.github.io/settings/pages)
+[TryHackMe](https://tryhackme.com/p/mercu4ia1)
 ContactPedroFerreira@gmail.com
 
 
