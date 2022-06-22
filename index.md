@@ -25,18 +25,13 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-[Link](https://google.com)
 
 
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PedroFerreira97/PedroFerreira97.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Contact
 
+[repository settings](https://github.com/PedroFerreira97/PedroFerreira97.github.io/settings/pages)
+[repository settings](https://github.com/PedroFerreira97/PedroFerreira97.github.io/settings/pages)
 ContactPedroFerreira@gmail.com
 
 
