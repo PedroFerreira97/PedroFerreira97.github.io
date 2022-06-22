@@ -1,3 +1,7 @@
+## About Me
+
+I am known as mercu4ia1 online & Pedro in real life.
+
 ## CTFs
 
 
@@ -26,11 +30,12 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-
+### Others
+[TryHackMe](https://tryhackme.com/p/mercu4ia1)
 
 ### Contact
 
-[TryHackMe](https://tryhackme.com/p/mercu4ia1)
+If you would like to contact me regarding any of my projects / work feel free to drop me an email 
 ContactPedroFerreira@gmail.com
 
 
