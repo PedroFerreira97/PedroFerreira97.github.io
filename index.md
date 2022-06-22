@@ -31,7 +31,9 @@ Syntax highlighted code block
 ```
 
 ### Others
+
 [TryHackMe](https://tryhackme.com/p/mercu4ia1)
+
 [CTF](https://pedroferreira97.github.io/CTF/)
 
 ### Contact
