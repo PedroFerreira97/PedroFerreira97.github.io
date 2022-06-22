@@ -32,7 +32,7 @@ Syntax highlighted code block
 
 ### Others
 [TryHackMe](https://tryhackme.com/p/mercu4ia1)
-[test](https://github.com/PedroFerreira97/PedroFerreira97/CTF)
+[CTF](https://pedroferreira97.github.io/CTF/)
 
 ### Contact
 
