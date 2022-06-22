@@ -38,6 +38,8 @@ Syntax highlighted code block
 
 [oi](https://pedroferreira97.github.io/CTF/test/test.html)
 
+[bug](https://pedroferreira97.github.io/BugBounty/test.html)
+
 
 ### Contact
 
