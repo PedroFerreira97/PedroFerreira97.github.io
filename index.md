@@ -36,6 +36,8 @@ Syntax highlighted code block
 
 [CTF](https://pedroferreira97.github.io/CTF/)
 
+[oi](https://pedroferreira97.github.io/CTF/test/test2.md)
+
 ### Contact
 
 If you would like to contact me regarding any of my projects / work feel free to drop me an email 
