@@ -16,6 +16,7 @@ My tryhackme account:
 [TryHackMe](https://tryhackme.com/p/mercu4ia1)
 
 In this page i will give all information about tools, methodology, write ups and notes:
+
 [CTF](https://pedroferreira97.github.io/CTF/)
 
 
@@ -26,6 +27,7 @@ What is Bug Bounty?
 Bug bounty programs allow independent security researchers to report bugs to an organization and receive rewards or compensation. These bugs are usually security exploits and vulnerabilities, though they can also include process issues, hardware flaws, and so on.
 
 In this page i will take about methodology, tips, tools, and more:
+
 [BugBounty](https://pedroferreira97.github.io/BugBounty/test.html)
 
 ## Projects
