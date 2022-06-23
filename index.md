@@ -4,10 +4,25 @@ I am known as mercu4ia1 online & Pedro in real life.
 
 ## CTFs
 
+What is a CTF?
+A CTF stands for Capture the Flag, a game in which players put their skills to practice to solve problems or break into an opponent’s system. 
+Below are different types of CTFs:
+
+    - Jeopardy style: In this variant, players solve certain problems to acquire “flags”(a specific string of text) to win.
+    - Attack-Defence: In this type, two teams are created- Red Team (which tries to breach the system) and Blue Team (which tries to defend the system).
+
+My tryhackme account
+[TryHackMe](https://tryhackme.com/p/mercu4ia1)
+
+In this page i will give all information about tools, methodology, write ups and notes
+[CTF](https://pedroferreira97.github.io/CTF/)
+
 
 ## Bug Bouty
 
 
+[BugBounty](https://pedroferreira97.github.io/BugBounty/test.html)
+ 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -30,22 +45,17 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-### Project
-visexe ctf
+## Projects
 
-### Others Projects
-universe
-maths
+This section is about my projects.
 
-### Links
+1. Collatz Problem
 
-[TryHackMe](https://tryhackme.com/p/mercu4ia1)
+[Collatz Problem](https://pedroferreira97.github.io/Projects/collatz.html)
 
-[CTF](https://pedroferreira97.github.io/CTF/)
+2. I organized the Capture of Flag for the event Capture the Flag
 
-[oi](https://pedroferreira97.github.io/CTF/test/test.html)
-
-[bug](https://pedroferreira97.github.io/BugBounty/test.html)
+[Visexe Summit CTF](https://pedroferreira97.github.io/Projects/VisexeSummitCTF.html)
 
 
 ### Contact
