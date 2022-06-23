@@ -28,7 +28,7 @@ Bug bounty programs allow independent security researchers to report bugs to an 
 
 In this page i will take about methodology, tips, tools, and more:
 
-[BugBounty](https://pedroferreira97.github.io/BugBounty/test.html)
+[BugBounty](https://pedroferreira97.github.io/BugBounty/)
 
 ## Projects
 
