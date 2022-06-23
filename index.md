@@ -43,10 +43,4 @@ This section is about my projects.
 [Visexe Summit CTF](https://pedroferreira97.github.io/Projects/VisexeSummitCTF.html)
 
 
-### Contact
-
-If you would like to contact me regarding any of my projects / work feel free to drop me an email 
-ContactPedroFerreira@gmail.com
-
-
 
