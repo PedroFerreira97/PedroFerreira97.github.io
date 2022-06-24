@@ -4,6 +4,14 @@
 
 - Any question? Contact me
 
+### OWASP top10
+
+This room will go through top 10 vulnerabilities that most web application may have and will teach you the basics on how to solve them
+
+[Room](https://tryhackme.com/room/owasptop10)
+
+[Writeup Owasp top 10](https://pedroferreira97.github.io/CTF/writeups/owasptop10.html)
+
 ### Room Brute it
 
 In this box you will learn about:

@@ -43,4 +43,7 @@ This section is about my projects.
 [Visexe Summit CTF](https://pedroferreira97.github.io/Projects/VisexeSummitCTF.html)
 
 
+## Other Links:
+
+[Medium](https://medium.com/@pedroferreira_97)
 
