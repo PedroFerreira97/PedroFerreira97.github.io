@@ -81,7 +81,31 @@ Basic Format
 2. rustscan -a MachineIp -p 22 -- -sV
 3. rustscan -a MachineIp -p 22,80 -- -sC
 
+## RustScan QUiz
 
+    First, how do you access the help menu?
+
+-    Answer: -h
+
+    Often referred to as “quiet” mode, What switch can do this?
+
+-    Answer: -q
+
+    Which switch can help us to scan for a particular Range?
+
+-    Answer: -r
+
+    What switch would you use to find out RustScan’s version?
+
+-    Answer: -v
+    
+    Which switch will help us to select batch size?
+
+-    Answer: -b
+
+    Which switch can set timeout?
+
+-    Answer: -t
 
 
 
