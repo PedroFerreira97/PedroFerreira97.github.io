@@ -24,4 +24,12 @@ Get ssh from the machine that have a CVE and exploit public for the CMS version.
 
 [Writeup EasyCtf](https://pedroferreira97.github.io/CTF/writeups/easyctf.html)
 
+### Room RustScan
 
+RustScan is the modern day port scanner.
+
+Capable of scanning targets in less than a second, extensible scripting language allowing you to write scripts in Python, and more.
+
+[Room](https://tryhackme.com/room/rustscan)
+
+[Writeup RustScan](https://pedroferreira97.github.io/CTF/writeups/rustscan.html)
